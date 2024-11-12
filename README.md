@@ -1,3 +1,5 @@
+Small python module to read entries from `.NDB` files (like `fwauth.NDB`)
+
 Usage:
 ```python
 import ndb
